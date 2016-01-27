@@ -1,1 +1,1 @@
-# Loan
+# Simple loan calculator
